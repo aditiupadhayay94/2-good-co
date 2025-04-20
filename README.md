@@ -35,5 +35,5 @@ Thanks to **Sarthak Sharma** on YouTube for the clear and inspiring tutorial tha
 
 ## 📌 Author
 **Aditi Manish Upadhayay**  
-[LinkedIn](https://www.linkedin.com/in/your-link) <!-- Replace with your actual profile URL -->
+[LinkedIn][(https://www.linkedin.com/in/your-link)](https://www.linkedin.com/in/aditi-upadhayay-30b697340/) <!-- Replace with your actual profile URL -->
 
